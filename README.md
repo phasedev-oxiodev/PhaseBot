@@ -73,7 +73,7 @@ config/token.py
 ```
 
 ```python
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = ""
 ```
 
 ---
@@ -104,10 +104,10 @@ Some examples:
 
 ## 🧠 Notes
 
-* Uses **PhaseDB + JSON storage**
-* Fully customizable per server
+* Uses **JSON storage**
+* Fully customizable
 * Designed for **performance + clean UI**
-* Slash + prefix compatible (depending setup)
+* prefix compatible
 
 ---
 
@@ -118,5 +118,5 @@ Made with ❤️ by **PhaseDev**
 ---
 
 <p align="center">
-  ⚡ PhaseBot — PDR On Top ⚡
+  ⚡ PhaseBot —  THe Best Discord Bot ⚡
 </p>
